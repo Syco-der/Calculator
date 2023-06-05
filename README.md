@@ -22,7 +22,7 @@ Welcome to the Calculator! This web application provides a modern and intuitive 
 
 ## Usage 🚀
 
-1. Open the [Calculator](https://your-calculator-url.com) in your web browser.
+1. Open the [Calculator](https://syco-der.github.io/Calculator/) in your web browser.
 2. Enter your mathematical expression using the provided buttons and input field.
 3. The calculator will automatically display the result in real-time as you type or modify the expression.
 4. To perform a new calculation, click the clear button (AC) or use the backspace button (C) to remove specific characters.
